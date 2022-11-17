@@ -1,0 +1,1 @@
+/usr/bin/cc -g -ggdb -Wall -Werror -Wextra -pedantic -g   CMakeFiles/0-main.c.dir/binary_tree_node.c.o CMakeFiles/0-main.c.dir/binary_tree_print.c.o CMakeFiles/0-main.c.dir/0-main.c.o CMakeFiles/0-main.c.dir/1-main.c.o  -o 0-main.c 

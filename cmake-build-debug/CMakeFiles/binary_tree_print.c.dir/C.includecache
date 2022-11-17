@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eltueto/Documents/0x1D-binary_trees/0-binary_tree_node.c
+binary_trees.h
+/home/eltueto/Documents/0x1D-binary_trees/binary_trees.h
+
+/home/eltueto/Documents/0x1D-binary_trees/1-binary_tree_insert_left.c
+binary_trees.h
+/home/eltueto/Documents/0x1D-binary_trees/binary_trees.h
+
+/home/eltueto/Documents/0x1D-binary_trees/1-main.c
+binary_trees.h
+/home/eltueto/Documents/0x1D-binary_trees/binary_trees.h
+
+/home/eltueto/Documents/0x1D-binary_trees/binary_trees.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+stddef.h
+-
+
